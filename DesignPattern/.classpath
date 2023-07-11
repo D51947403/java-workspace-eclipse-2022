@@ -8,5 +8,6 @@
 	<classpathentry kind="lib" path="D:/java-lib-jar/commons-lang3-3.12.0.jar"/>
 	<classpathentry kind="lib" path="D:/java-lib-jar/junit-4.12.jar"/>
 	<classpathentry kind="lib" path="D:/java-lib-jar/google-collect-0.5.jar"/>
+	<classpathentry kind="lib" path="D:/java-lib-jar/guice-5.1.0.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
