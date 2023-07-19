@@ -17,5 +17,8 @@
 	</classpathentry>
 	<classpathentry kind="lib" path="D:/java-lib-jar/rxjava-2.2.20.jar"/>
 	<classpathentry kind="lib" path="D:/java-lib-jar/rxjava-2.2.17.jar"/>
+	<classpathentry kind="lib" path="D:/java-lib-jar/spring-statemachine-core-3.1.0.jar"/>
+	<classpathentry kind="lib" path="D:/java-lib-jar/reactor-core-3.5.5.jar"/>
+	<classpathentry kind="lib" path="D:/java-lib-jar/spring-messaging-6.0.3.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
